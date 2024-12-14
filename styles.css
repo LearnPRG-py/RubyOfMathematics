@@ -23,8 +23,8 @@ body{
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     justify-content: center;
     align-items: center;
-    opacity: 0; /* Start with the tagline being invisible */
-    transition: opacity 1s ease-in-out; /* Fade-in transition */
+    opacity: 0; 
+    transition: opacity 1s ease-in-out; 
 }
 #tagline2{
     display: flex;
